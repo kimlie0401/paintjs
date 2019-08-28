@@ -66,10 +66,7 @@ padding: 50px 0px;
     .controls{
         margin-top: 40px;
     }
-    .canvas{
-        width: 400px;
-        height: 400px;
-    }
+
     .controls__colors .controls__color{
         width: 40px;
         height: 40px;
